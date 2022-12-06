@@ -1,0 +1,55 @@
+.headline {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.available-color {
+  color: #479041;
+}
+
+.unavailable-color {
+  color: #ee5a5a;
+}
+
+.timer-section {
+  margin-top: 20px;
+}
+
+.timer-arrow {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.alert-bell {
+  vertical-align: middle;
+  height: 70%;
+  margin-right: 5px;
+}
+
+button {
+  width: 60%;
+  height: 40px;
+  border: 0px;
+  color: white;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+
+  background: linear-gradient(92.17deg, #ee5a5a -2.52%, #ff8e8e 57.99%);
+  border-radius: 15px;
+}
+
+.square {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+  background: linear-gradient(92.17deg, #ffffff -2.52%, #eeeeee 57.99%);
+  border-radius: 15px;
+}
+
+.indicator {
+  height: 70%;
+  margin-top: 15%;
+}
